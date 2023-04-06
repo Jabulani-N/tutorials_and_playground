@@ -2,16 +2,5 @@ learn about Process ID (PID): gcc piddling.c
 
 learn about running main with input arguments: argumentative.c
 
-I bet I can get a program to open and then continue via
+learn about forking a parent an child, and -breaking child labor laws- making the parent and child do differnt things: fork_child_from_parent.c
 
-----
-
-`
-
-	childIDer = fork()
-
-	if childIDer = 0
-
-		either do what parents get, or do what children get
-
-`
