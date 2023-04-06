@@ -8,10 +8,10 @@ I bet I can get a program to open and then continue via
 
 `
 
-childIDer = fork()
+	childIDer = fork()
 
-if childIDer = 0
+	if childIDer = 0
 
-	either do what parents get, or do what children get
+		either do what parents get, or do what children get
 
 `
