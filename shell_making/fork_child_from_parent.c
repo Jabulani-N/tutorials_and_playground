@@ -15,6 +15,7 @@ int main (void)
 		printf("I'm the parent!\n");
 	else
 		printf("I'm the child, and my days are numbered!\n");
+	printf("my pid is %i\nmy parent's pid is %i\n\n", getpid(), getppid());
 
 	return (adultsOnly);
 }
