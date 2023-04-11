@@ -9,6 +9,7 @@
 #include <math.h>
 #include <sys/types.h>
 #include <unistd.h>
+#include <sys/wait.h>
 
 #endif
 
