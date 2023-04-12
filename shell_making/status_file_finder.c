@@ -9,7 +9,7 @@
 int main (int ac, char **av)
 {
 	int i=1;
-	struct stat st;
+	struct stat st;/*it looks like this is the struct that'll hold stat data*/
 
 	if (ac < 2)
 	{
@@ -19,7 +19,7 @@ int main (int ac, char **av)
 	while (av[i])
 	{
 		printf("file [%s]", av[i]);
-		if (stat(av[i], &st)) /*it looks like this is the struct that'll hold stat data*/
+		if (stat(av[i], &st)) /*stat returns 0 on success and -1 on failure*/
 		{
 			printf(" was found.\n");
 		}	
