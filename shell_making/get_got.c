@@ -15,7 +15,7 @@ int main (void)
 
 	printf("tell me words～♡\n$ ");
 	i = getline(&holder, &j, stdin);/*becuase we're starting at NULL and 0, getline will allocate for us*/
-	printf("I got %i characters from you☆\nThey are:\n%s\n", i, holder);
+	printf("I got %i characters from you☆\nThey are:\n%s\nThat's right. The newline counts as a charaacter.\n", i, holder);
 
 	free(holder);
 	/*yes, you do NEED TO FREE what getline allocates*/
