@@ -16,4 +16,16 @@ perfect binary tree: all nodes have 0 or 2 children
 
 balanced binary tree: all nodes have same number of children + children's children + etc..
 
+## traversal of binary trees
+
+post/in/pre order traversal of binary tree means when it runs the data in the current node.
+
+* post - AFTER the l(eft) and r(ight) children
+
+* in - INBETWEEN the l(eft) and r(ight) children
+
+* pre - BEFORE the l(eft) and r(ight) children
+
+you'll likely (but not necessarily) be using a recursive function in traversal, so that it can keep track of where it is within the function
+
 
