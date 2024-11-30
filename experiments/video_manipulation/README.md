@@ -13,3 +13,13 @@ I created this because I wanted to convert about a hundred video files I had on 
 ![Fine, I'll do it myself](../../img/thanos_fine_ill_do_it_myself.png)
 </details>
 
+moviepy updated to v2, so much old guides will not function. This'll be a project filled with [reading the documentation](https://zulko.github.io/moviepy/reference/reference/moviepy.audio.AudioClip.AudioClip.html#moviepy.audio.AudioClip.AudioClip.write_audiofile).
+
+## Steps
+
+import video file
+
+isolate audio data
+
+save audio data as alternate file
+
