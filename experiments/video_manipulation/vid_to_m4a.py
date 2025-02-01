@@ -19,19 +19,23 @@ def vid_to_m4a():
     save_loc = './vid_to_m4a/outputs/'
     vid_file = source_loc + 'example_vid.mp4'
     m4a_file = save_loc + 'output_audio.m4a'
+    output_codec = "aac" # aac can be used in m4a files
 
     print("varibles declared")
 
     # Extract audio
     audio_import_bufferSize = 1000
+    # the below is generally referred to as an audio clip
+    # it would be named that by convention
     sound_file = moviepy.audio.io.readers.FFMPEG_AudioReader(vid_file, audio_import_bufferSize)
-    print("sound extracted")
+    print("sound extracted into ffmpeg_audioreader object")
     # write it to the specified location
     fps, nbytes, output_buffersize = 25, 2, 500
-    moviepy.audio.io.ffmpeg_audiowriter.ffmpeg_audiowrite(sound_file, m4a_file, fps,
-                                                          nbytes, output_buffersize)
+    # moviepy.audio.io.ffmpeg_audiowriter.ffmpeg_audiowrite(sound_file, m4a_file, fps,
+    #                                                       nbytes, output_buffersize)
+    sound_file.write_audiofile(m4a_file, codec="aac")
     print("sound saved to file")
-    # Close the clip
+    # Close the audio clip
     sound_file.close()
     print("sound flie closed")
 
