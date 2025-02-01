@@ -2,6 +2,7 @@
 
 import moviepy
 from moviepy import VideoFileClip
+from moviepy import AudioFileClip
 
 
 
@@ -23,11 +24,19 @@ def vid_to_m4a():
 
     print("varibles declared")
 
-    # import video
+    # import video as VideoFileClip
     video_clip = VideoFileClip(vid_file)
-
-    sound_file.close()
-    print("sound flie closed")
+    print("video file imported as VideoFileClip without incident")
+    # get audio from video
+    audio_clip = video_clip.audio
+    print("audio extracted from video as AudioFileClip without incident")
+    # save audio as new file
+    audio_clip.write_audiofile(m4a_file, codec=output_codec)
+    print("audio file written")
+    # close the created clips
+    video_clip.close()
+    audio_clip.close()
+    print("clip files closed")
 
 def vid_to_m4a_old2():
     """
