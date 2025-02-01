@@ -9,6 +9,11 @@ def vid_to_m4a():
     """
     most basic of video converters
     This will have the basis from which I add functionality
+
+    This does not allow user to select file,
+    because I want to establish the basics first.
+
+    Next step will be custom file addresses
     """
     source_loc = '../../img/vid_manip/'
     save_loc = './vid_to_m4a/outputs/'
