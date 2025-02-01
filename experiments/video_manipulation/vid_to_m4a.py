@@ -25,7 +25,7 @@ def vid_to_m4a():
     # Extract audio
     audio_import_bufferSize = 1000
     sound_file = moviepy.audio.io.readers.FFMPEG_AudioReader(vid_file, audio_import_bufferSize)
-    print("soud extracted")
+    print("sound extracted")
     # write it to the specified location
     fps, nbytes, output_buffersize = 25, 2, 500
     moviepy.audio.io.ffmpeg_audiowriter.ffmpeg_audiowrite(sound_file, m4a_file, fps,
