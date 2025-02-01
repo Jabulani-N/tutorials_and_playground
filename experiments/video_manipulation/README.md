@@ -17,11 +17,26 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
 
 ## Steps
 
-import video file
+### Baseline functionality
 
-isolate audio data
+ - [x] import video file
 
-save audio data as alternate file
+ - [x] isolate audio data
+
+ - [x] save audio data as alternate file
+
+### Highly desired functionality
+
+ - [ ] video file name can be specified as input argument
+
+ - [ ] separate function that returns the names of all video files in a given directory
+
+ - [ ] created audio file inherits name of video it came from
+
+## efficiency functionality
+
+ - [ ] skip importing video files that already have existing audio file
+   - [ ] make this optional so files can be updated
 
 ## Resources
 
