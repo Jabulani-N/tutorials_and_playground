@@ -13,7 +13,7 @@ def vid_to_m4a():
     source_loc = '../../img/vid_manip/'
     save_loc = './vid_to_m4a/outputs/'
     vid_file = source_loc + 'example_vid.mp4'
-    m4a_file = save_loc + 'output_sound.m4a'
+    m4a_file = save_loc + 'output_audio.m4a'
 
 
     # Extract audio
