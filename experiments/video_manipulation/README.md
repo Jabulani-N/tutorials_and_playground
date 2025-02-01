@@ -23,3 +23,8 @@ isolate audio data
 
 save audio data as alternate file
 
+## Resources
+
+MoviePy can [directly such the audio out of a video file clip](https://zulko.github.io/moviepy/reference/reference/moviepy.video.VideoClip.VideoClip.html#moviepy.video.VideoClip.VideoClip.audio) via `moviepy.video.VideoClip.VideoClip.audio()` This will return a MoviePy AudioClip object. This should mean as soon as we get a VideoClip object, we can just truncate it and use `extracted_audio = VideoClipName.audio()` to instantly grab the AudioClip equivalent of the file.
+
+[This is how you get a videofileclip out of a video file](https://zulko.github.io/moviepy/user_guide/loading.html#videofileclip) All we need is `myclip = VideoFileClip("example.mp4")`, which makes a VideoFileClip object named `myclip`,but the link will explain how to only take portions off a video.

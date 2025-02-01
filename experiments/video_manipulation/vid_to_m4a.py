@@ -23,6 +23,30 @@ def vid_to_m4a():
 
     print("varibles declared")
 
+    # import video
+    video_clip = VideoFileClip(vid_file)
+
+    sound_file.close()
+    print("sound flie closed")
+
+def vid_to_m4a_old2():
+    """
+    most basic of video converters
+    This will have the basis from which I add functionality
+
+    This does not allow user to select file,
+    because I want to establish the basics first.
+
+    Next step will be custom file addresses
+    """
+    source_loc = '../../img/vid_manip/'
+    save_loc = './vid_to_m4a/outputs/'
+    vid_file = source_loc + 'example_vid.mp4'
+    m4a_file = save_loc + 'output_audio.m4a'
+    output_codec = "aac" # aac can be used in m4a files
+
+    print("varibles declared")
+
     # Extract audio
     audio_import_bufferSize = 1000
     # the below is generally referred to as an audio clip
