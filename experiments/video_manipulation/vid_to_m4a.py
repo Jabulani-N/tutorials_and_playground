@@ -3,6 +3,7 @@
 import moviepy
 from moviepy import VideoFileClip
 from moviepy import AudioFileClip
+import os
 
 
 
@@ -30,6 +31,13 @@ def vid_to_m4a():
     # get audio from video
     audio_clip = video_clip.audio
     print("audio extracted from video as AudioFileClip without incident")
+
+    # audio writing
+
+    # ffmpeg will refuse to make a directory that doesn't already exist
+    # create necessary directories
+    os.makedirs(os.path.dirname(m4a_file), exist_ok=True)
+
     # save audio as new file
     audio_clip.write_audiofile(m4a_file, codec=output_codec)
     print("audio file written")
