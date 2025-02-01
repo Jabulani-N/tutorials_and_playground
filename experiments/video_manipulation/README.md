@@ -46,7 +46,7 @@ MoviePy can [directly such the audio out of a videoClip](https://zulko.github.io
 
 [This is how you get a videofileclip out of a video file](https://zulko.github.io/moviepy/user_guide/loading.html#videofileclip) All we need is `myclip = VideoFileClip("example.mp4")`, which makes a VideoFileClip object named `myclip`,but the link will explain how to only take portions off a video.
 
-## Potential Pitfalls
+## Programmers' Potential Pitfalls
 
 VideoClip is distinct form VideoFileClip. Same with audio.
 
