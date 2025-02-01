@@ -25,13 +25,15 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
 
  - [x] save audio data as alternate file
 
-### Highly desired functionality
+### Future-proofing functionality
 
  - [ ] video file name can be specified as input argument
+   - [ ] created audio file inherits name of video it came from
+        * despite wording, this can just copy the input argument and modify it a little
+        * this means I can make a wholly separate `nameconverter(video_name, desired_extension)` function that converts a video name to one with the `desired_extension`.
 
- - [ ] separate function that returns the names of all video files in a given directory
-
- - [ ] created audio file inherits name of video it came from
+ - [ ] independant function that returns the names of all video files in a given directory
+    * this will feed the filenames to the previous task of converting videos based on filename as input argument.
 
 ## efficiency functionality
 
