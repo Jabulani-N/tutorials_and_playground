@@ -27,10 +27,12 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
 
 ### Future-proofing functionality
 
- - [ ] video file name can be specified as input argument
+ - [x] video file name can be specified as input argument
+        * took a two argument route. can have the function that feeds it files handle name duplication
    - [ ] created audio file inherits name of video it came from
         * despite wording, this can just copy the input argument and modify it a little
         * this means I can make a wholly separate `nameconverter(video_name, desired_extension)` function that converts a video name to one with the `desired_extension`.
+        * This funciotnality will come from the function that spams feeding names to the main converter
 
  - [ ] independant function that returns the names of all video files in a given directory
     * this will feed the filenames to the previous task of converting videos based on filename as input argument.
