@@ -34,8 +34,11 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
         * this means I can make a wholly separate `nameconverter(video_name, desired_extension)` function that converts a video name to one with the `desired_extension`.
         * This funciotnality will come from the function that spams feeding names to the main converter
 
- - [ ] independant function that returns the names of all video files in a given directory
+ - [x] independant function that returns the names of all video files in a given directory
     * this will feed the filenames to the previous task of converting videos based on filename as input argument.
+
+ - [ ] main script to prompt for input/output directories
+   - [ ] must check if input dir exists
 
 ## efficiency functionality
 
