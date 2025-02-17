@@ -4,6 +4,11 @@ this module exists to quickly list files with given ext in a given dir
 
 note that you can't pass "none" as an argument and get it to work
 you'll have to leave the argument slot blank in order to run it in default.
+
+recieves a folder address
+    returns names of all files with a given extension
+
+    returns a list
 """
 
 

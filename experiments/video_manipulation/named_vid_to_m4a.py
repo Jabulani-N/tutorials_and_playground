@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+"""
+converts one mp4 video file to m4a audio,
+given input vid name and desired output name
+
+file names required.
+default directories exist, but should be specified when used.
+"""
 
 import moviepy
 from moviepy import VideoFileClip
@@ -20,7 +27,7 @@ def named_vid_to_m4a(input_vid_name, output_aud_name,
     input args are used to this method can be called by later methods
         this is why it's NOT gonna prompt user
 
-    This funciton is complete
+    This function is complete
     """
 
     vid_file = source_loc + input_vid_name
