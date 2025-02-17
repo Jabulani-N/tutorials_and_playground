@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
 converts one mp4 video file to m4a audio,
-given input vid name and desired output name
+given:
+
+    source vid name
+    source location directory
+    desired output name
+    output destination directory
 
 file names required.
 default directories exist, but should be specified when used.
