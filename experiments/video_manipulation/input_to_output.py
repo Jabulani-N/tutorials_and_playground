@@ -16,6 +16,7 @@ from pathlib import Path
 
 list_files = __import__('list_files_in_folder').list_files
 converter = __import__('named_vid_to_m4a').named_vid_to_m4a
+list_subdirs = __import__('list_folders_in_folder').list_dirs
 
 
 def extract_from_dir(input_dir="./input/", output_dir="./output/"):
@@ -26,6 +27,14 @@ def extract_from_dir(input_dir="./input/", output_dir="./output/"):
     """
     types_of_vid = [".mp4"]
     target_vid_titles = np.array([])
+    subdirs = list_subdirs(input_dir)
+
+    # if there are subdirs, do them first
+    if subdirs:
+        for subdir in subdirs:
+            input_subdir = input_dir + "/" + subdir + "/"
+            output_subdir = output_dir + "/" + subdir + "/"
+            extract_from_dir(input_subdir, output_subdir)
 
     for vid_type in types_of_vid:
         print("about to add files of extension", vid_type)
