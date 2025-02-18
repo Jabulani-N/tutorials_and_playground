@@ -32,8 +32,8 @@ def extract_from_dir(input_dir="./input/", output_dir="./output/"):
     # if there are subdirs, do them first
     if subdirs:
         for subdir in subdirs:
-            input_subdir = input_dir + "/" + subdir + "/"
-            output_subdir = output_dir + "/" + subdir + "/"
+            input_subdir = input_dir + subdir + "/"
+            output_subdir = output_dir + subdir + "/"
             extract_from_dir(input_subdir, output_subdir)
 
     for vid_type in types_of_vid:
