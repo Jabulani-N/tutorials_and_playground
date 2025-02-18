@@ -1,1 +1,1 @@
-./gui.py
+.\gui.py
