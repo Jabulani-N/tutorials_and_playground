@@ -26,16 +26,18 @@ def run_gui():
     elif choice == opt2:
         source_dir = pick_dir("please select the folder with your videos")
     else:
-        return
+        return None
     print(f"source dir = {source_dir}")
     if source_dir == None:
-        return
+        return None
+    if choice == "cancel":
+        return None
     # output selection
     opt1 = "Create and use a default output folder right here"
     opt2 = "Select an output folder"
     box_title = "where would you like to place the audio files?"
     box_text = "Would you like to create\
-and use a default 'output'folder,\
+ and use a default 'output' folder,\
 \n or will you select a different folder to\
 store the audio files after conversion?"
     choice = pick_from_two(opt1, opt2, box_title, box_text)
@@ -45,10 +47,23 @@ store the audio files after conversion?"
         dest_dir = pick_dir("please select the\
 folder where you'd like to save your audio files.")
     else:
-        return
-    if dest_dir == None:
-        return
+        return None
+    if choice == "cancel":
+        return None
 
+    #confirmation screen
+    box_title = "Begin?"
+    box_text = "We're going to take the videos out of\n" + \
+source_dir + "\nand place them into\n" + dest_dir
+    opt1 = "Let's go!"
+    opt2 = "Start over"
+    choice = pick_from_two(opt1, opt2, box_title, box_text)
+    if choice == opt1:
+        converter(source_dir + "/", dest_dir + "/")
+    elif choice == opt2:
+        run_gui()
+    else:
+        return
 
 if __name__ == '__main__':
     """run the gui"""

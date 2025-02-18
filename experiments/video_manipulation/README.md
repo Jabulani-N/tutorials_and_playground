@@ -42,7 +42,7 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
  - [x] independant function that returns the names of all video files in a given directory
     * this will feed the filenames to the previous task of converting videos based on filename as input argument.
 
- - [ ] main script to prompt for input/output directories
+ - [x] main script to prompt for input/output directories
     - as in, with a folder selection GUI window
    - [ ] must check if input dir exists
 
@@ -69,3 +69,7 @@ VideoClip is distinct form VideoFileClip. Same with audio.
 `extracted_audio = VideoClipName.audio()` will fail, raising `TypeError: 'AudioFileClip' object is not callable`
 
 * instead use `extracted_audio = VideoClipName.audio`
+
+## Known Bugs
+
+If you run the gui script via terminal from a different folder, default folders (input inparticular) will not work, because it identifies the folder with a relative path. It instead works for if you have an input folder in the directory you're running it from.
