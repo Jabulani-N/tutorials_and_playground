@@ -1,3 +1,5 @@
+This project is being developed an [AGILE development method](https://learn.microsoft.com/en-us/devops/plan/what-is-agile-development).
+
 moviepy updated to v2, so much old guides will not function. This'll be a project filled with [reading the documentation](https://zulko.github.io/moviepy/reference/reference/moviepy.audio.AudioClip.AudioClip.html#moviepy.audio.AudioClip.AudioClip.write_audiofile).
 
 ## Steps
