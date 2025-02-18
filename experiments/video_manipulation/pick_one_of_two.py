@@ -18,7 +18,7 @@ def ask_two_options(opt1="1", opt2="2",box_title="Choose an Option",
     # Create a new top-level window for the dialog
     dialog = tk.Toplevel(root)
     dialog.title(box_title)
-    dialog.geometry("600x150")
+    dialog.geometry("600x250")
     dialog.resizable(False, False)
 
     # Variable to store the user's choice

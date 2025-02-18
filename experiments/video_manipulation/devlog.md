@@ -38,6 +38,7 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
 
  - [ ] Package app into a portable form
    - I'll have to research how to package python apps, and then populate more substeps for this step
+   - [instructions](https://www.geeksforgeeks.org/create-a-single-executable-from-a-python-project/)
 
 ## efficiency functionality
 
@@ -61,3 +62,9 @@ VideoClip is distinct form VideoFileClip. Same with audio.
 ## Known Bugs
 
 If you run the gui script via terminal from a different folder, default folders (input inparticular) will not work, because it identifies the folder with a relative path. It instead works for if you have an input folder in the directory you're running it from.
+
+
+executable file created by pyinstaller does not import local modules
+* this seems to be solution: https://stackoverflow.com/questions/55312146/how-to-include-only-needed-modules-in-pyinstaller
+
+executable file created by pyinstaller cannot be run on windows
