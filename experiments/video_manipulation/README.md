@@ -33,7 +33,7 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
         * despite wording, this can just copy the input argument and modify it a little
         * this means I can make a wholly separate `nameconverter(video_name, desired_extension)` function that converts a video name to one with the `desired_extension`.
         * This funciotnality will come from the function that spams feeding names to the main converter
-    - [ ] files are searched recursively in each child directory
+    - [x] files are searched recursively in each child directory
         * this will likely be done by searching for directories, and then calling the file searcher for each returned dir?
         * could also call the entire program on each subdirectory, so it'll handle recursion on itself (this would potentially be inefficient and not future-proof behavior)
         * most easily, we could just make a script that returns all child dirs
@@ -43,6 +43,7 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
     * this will feed the filenames to the previous task of converting videos based on filename as input argument.
 
  - [ ] main script to prompt for input/output directories
+    - as in, with a folder selection GUI window
    - [ ] must check if input dir exists
 
 ### Usability functionality
