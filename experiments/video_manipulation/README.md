@@ -1,6 +1,6 @@
 # Video Manipulation
 
-This directory contains a Pyhton project created for the purpose of batch converting video files to audio files (**not** by destroying the vid files).
+This directory contains a Pyhton project created for the purpose of batch extracting  audio files from video files.
 
 ![gui demonstration](../../img/vid_manip/gui%20demonstration.webp)
 
