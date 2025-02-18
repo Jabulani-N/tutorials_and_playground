@@ -80,7 +80,7 @@ and then what you want hte output file to be named.\
 \nNormally, you won't actually be able to see\
 this method work, as it'll be getting called internally\
 and automatically.\
-\n\nGood luck!")
+\n\nGood luck!\n\n  -- Jabulani Ndhlovu")
     vid_file_to_take = input("what video file will you convert?: ")
     aud_file_to_give = input("what will you name the converted file?: ")
     print("you want to take",vid_file_to_take,
