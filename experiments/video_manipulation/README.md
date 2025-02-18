@@ -45,6 +45,11 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
  - [ ] main script to prompt for input/output directories
    - [ ] must check if input dir exists
 
+### Usability functionality
+
+ - [ ] Package app into a portable form
+   - I'll have to research how to package python apps, and then populate more substeps for this step
+
 ## efficiency functionality
 
  - [ ] skip importing video files that already have existing audio file

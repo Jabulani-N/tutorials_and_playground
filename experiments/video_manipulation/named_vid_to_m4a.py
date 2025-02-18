@@ -35,11 +35,18 @@ def named_vid_to_m4a(input_vid_name, output_aud_name,
     This function is complete
     """
 
+    print("converter args recieved:")
+    print("input vid name:", input_vid_name)
+    print("source loc:", source_loc)
+    print("output aud name:", output_aud_name)
+    print("save loc:", save_loc)
     vid_file = source_loc + input_vid_name
     m4a_file = save_loc + output_aud_name
     output_codec = "aac" # aac can be used in m4a files
 
-    print("varibles declared")
+    print("varibles declared:")
+    print("source file is", vid_file, "from", source_loc)
+    print("create", m4a_file, "in", save_loc)
 
     # import video as VideoFileClip
     video_clip = VideoFileClip(vid_file)

@@ -11,8 +11,38 @@ it has a field to tell it which dir you want it to search
     output: outputs dir
 """
 
-# example module import
-# determinant = __import__('0-determinant').determinant
+import numpy as np
+from pathlib import Path
 
 list_files = __import__('list_files_in_folder').list_files
 converter = __import__('named_vid_to_m4a').named_vid_to_m4a
+
+
+def extract_from_dir(input_dir="./input/", output_dir="./output/"):
+    """
+    give it a dir, and it'll loop through each vid file within
+    and put it in the designated or default output dir
+    you could even put them in the source dir if you want
+    """
+    types_of_vid = [".mp4"]
+    target_vid_titles = np.array([])
+
+    for vid_type in types_of_vid:
+        print("about to add files of extension", vid_type)
+        target_vid_titles = np.append(target_vid_titles,(list_files(input_dir, vid_type)))
+        print("just added files of extension", vid_type)
+
+    target_vid_titles = target_vid_titles.flatten()
+    print("all vid types collected.\ntotal list of vids:", target_vid_titles)
+
+    for vid_name_full in target_vid_titles:
+        vid_name_stem = Path(vid_name_full).stem
+        output_aud_file_name = vid_name_stem + ".m4a"
+        print("sending '", vid_name_full, "' in '", input_dir, "' to converter")
+        print("to ask converter to make '", output_aud_file_name, "' in", output_dir)
+        print("type of vid name full is", type(vid_name_full))
+        converter(vid_name_full, output_aud_file_name, input_dir, output_dir)
+
+if __name__ == '__main__':
+    """runs the converter for vid to m4a conversion"""
+    extract_from_dir()
