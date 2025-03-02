@@ -37,8 +37,15 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
 ### Usability functionality
 
  - [ ] Package app into a portable form
+   - [x] linux version
+   - [ ] windows version
    - I'll have to research how to package python apps, and then populate more substeps for this step
    - [instructions](https://www.geeksforgeeks.org/create-a-single-executable-from-a-python-project/)
+   - notes
+     - using the `main.spec` file, we told it that the supporting documents are all `.py` files in `.` with the line protected by `a = Analysis(` that says `datas=[('*.py','.')]`.
+     - currently, it wasn't able to use numpy, which is likely because the Windows I'm compiling it on doesn't have numpy instlled, error is: `ModuleNotFoundError: No module named 'numpy'
+[PYI-3572:ERROR] Failed to execute script 'main' due to unhandled exception!`
+        we know it's not due to lack of installation, so we'll just need to make it use `requirements.txt` to make sure it brings the modules into the exe.
 
 ## efficiency functionality
 
