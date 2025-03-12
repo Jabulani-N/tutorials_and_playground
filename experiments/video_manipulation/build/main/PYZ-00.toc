@@ -1,17 +1,5 @@
 ('D:\\Git_Repositories\\tutorials_and_playground\\experiments\\video_manipulation\\build\\main\\PYZ-00.pyz',
- [('__future__',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\__future__.py',
-   'PYMODULE'),
-  ('_aix_support',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\_aix_support.py',
-   'PYMODULE'),
-  ('_bootsubprocess',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\_bootsubprocess.py',
-   'PYMODULE'),
-  ('_compat_pickle',
+ [('_compat_pickle',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\_compat_pickle.py',
    'PYMODULE'),
@@ -43,133 +31,9 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\ast.py',
    'PYMODULE'),
-  ('asyncio',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\__init__.py',
-   'PYMODULE'),
-  ('asyncio.base_events',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\base_events.py',
-   'PYMODULE'),
-  ('asyncio.base_futures',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\base_futures.py',
-   'PYMODULE'),
-  ('asyncio.base_subprocess',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\base_subprocess.py',
-   'PYMODULE'),
-  ('asyncio.base_tasks',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\base_tasks.py',
-   'PYMODULE'),
-  ('asyncio.constants',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\constants.py',
-   'PYMODULE'),
-  ('asyncio.coroutines',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\coroutines.py',
-   'PYMODULE'),
-  ('asyncio.events',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\events.py',
-   'PYMODULE'),
-  ('asyncio.exceptions',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\exceptions.py',
-   'PYMODULE'),
-  ('asyncio.format_helpers',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\format_helpers.py',
-   'PYMODULE'),
-  ('asyncio.futures',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\futures.py',
-   'PYMODULE'),
-  ('asyncio.locks',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\locks.py',
-   'PYMODULE'),
-  ('asyncio.log',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\log.py',
-   'PYMODULE'),
-  ('asyncio.mixins',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\mixins.py',
-   'PYMODULE'),
-  ('asyncio.proactor_events',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\proactor_events.py',
-   'PYMODULE'),
-  ('asyncio.protocols',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\protocols.py',
-   'PYMODULE'),
-  ('asyncio.queues',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\queues.py',
-   'PYMODULE'),
-  ('asyncio.runners',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\runners.py',
-   'PYMODULE'),
-  ('asyncio.selector_events',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\selector_events.py',
-   'PYMODULE'),
-  ('asyncio.sslproto',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\sslproto.py',
-   'PYMODULE'),
-  ('asyncio.staggered',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\staggered.py',
-   'PYMODULE'),
-  ('asyncio.streams',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\streams.py',
-   'PYMODULE'),
-  ('asyncio.subprocess',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\subprocess.py',
-   'PYMODULE'),
-  ('asyncio.tasks',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\tasks.py',
-   'PYMODULE'),
-  ('asyncio.threads',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\threads.py',
-   'PYMODULE'),
-  ('asyncio.transports',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\transports.py',
-   'PYMODULE'),
-  ('asyncio.trsock',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\trsock.py',
-   'PYMODULE'),
-  ('asyncio.unix_events',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\unix_events.py',
-   'PYMODULE'),
-  ('asyncio.windows_events',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\windows_events.py',
-   'PYMODULE'),
-  ('asyncio.windows_utils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\asyncio\\windows_utils.py',
-   'PYMODULE'),
   ('base64',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\base64.py',
-   'PYMODULE'),
-  ('bdb',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\bdb.py',
    'PYMODULE'),
   ('bisect',
    'C:\\Users\\Circle '
@@ -182,78 +46,6 @@
   ('calendar',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\calendar.py',
-   'PYMODULE'),
-  ('charset_normalizer',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\__init__.py',
-   'PYMODULE'),
-  ('charset_normalizer.api',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\api.py',
-   'PYMODULE'),
-  ('charset_normalizer.assets',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
-   'PYMODULE'),
-  ('charset_normalizer.cd',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\cd.py',
-   'PYMODULE'),
-  ('charset_normalizer.constant',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\constant.py',
-   'PYMODULE'),
-  ('charset_normalizer.legacy',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\legacy.py',
-   'PYMODULE'),
-  ('charset_normalizer.md',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\md.py',
-   'PYMODULE'),
-  ('charset_normalizer.models',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\models.py',
-   'PYMODULE'),
-  ('charset_normalizer.utils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\utils.py',
-   'PYMODULE'),
-  ('charset_normalizer.version',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\charset_normalizer\\version.py',
-   'PYMODULE'),
-  ('cmd',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\cmd.py',
-   'PYMODULE'),
-  ('code',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\code.py',
-   'PYMODULE'),
-  ('codeop',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\codeop.py',
-   'PYMODULE'),
-  ('concurrent',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\concurrent\\__init__.py',
-   'PYMODULE'),
-  ('concurrent.futures',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\concurrent\\futures\\__init__.py',
-   'PYMODULE'),
-  ('concurrent.futures._base',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\concurrent\\futures\\_base.py',
-   'PYMODULE'),
-  ('concurrent.futures.process',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\concurrent\\futures\\process.py',
-   'PYMODULE'),
-  ('concurrent.futures.thread',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Users\\Circle '
@@ -271,14 +63,6 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\csv.py',
    'PYMODULE'),
-  ('ctypes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\ctypes\\_endian.py',
-   'PYMODULE'),
   ('dataclasses',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\dataclasses.py',
@@ -291,17 +75,9 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\decimal.py',
    'PYMODULE'),
-  ('difflib',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\difflib.py',
-   'PYMODULE'),
   ('dis',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\dis.py',
-   'PYMODULE'),
-  ('doctest',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\doctest.py',
    'PYMODULE'),
   ('email',
    'C:\\Users\\Circle '
@@ -383,10 +159,6 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\email\\utils.py',
    'PYMODULE'),
-  ('fileinput',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\fileinput.py',
-   'PYMODULE'),
   ('fnmatch',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\fnmatch.py',
@@ -395,25 +167,13 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\fractions.py',
    'PYMODULE'),
-  ('ftplib',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\ftplib.py',
-   'PYMODULE'),
   ('getopt',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\getopt.py',
    'PYMODULE'),
-  ('getpass',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\getpass.py',
-   'PYMODULE'),
   ('gettext',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\gettext.py',
-   'PYMODULE'),
-  ('glob',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\glob.py',
    'PYMODULE'),
   ('gzip',
    'C:\\Users\\Circle '
@@ -423,33 +183,29 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\hashlib.py',
    'PYMODULE'),
-  ('hmac',
+  ('imageio_ffmpeg',
    'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\hmac.py',
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\imageio_ffmpeg\\__init__.py',
    'PYMODULE'),
-  ('html',
+  ('imageio_ffmpeg._definitions',
    'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\html\\__init__.py',
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\imageio_ffmpeg\\_definitions.py',
    'PYMODULE'),
-  ('html.entities',
+  ('imageio_ffmpeg._io',
    'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\html\\entities.py',
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\imageio_ffmpeg\\_io.py',
    'PYMODULE'),
-  ('http',
+  ('imageio_ffmpeg._parsing',
    'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\http\\__init__.py',
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\imageio_ffmpeg\\_parsing.py',
    'PYMODULE'),
-  ('http.client',
+  ('imageio_ffmpeg._utils',
    'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\http\\client.py',
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\imageio_ffmpeg\\_utils.py',
    'PYMODULE'),
-  ('http.cookiejar',
+  ('imageio_ffmpeg.binaries',
    'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\http\\cookiejar.py',
-   'PYMODULE'),
-  ('http.server',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\http\\server.py',
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\imageio_ffmpeg\\binaries\\__init__.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Users\\Circle '
@@ -459,6 +215,10 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\_abc.py',
    'PYMODULE'),
+  ('importlib._adapters',
+   'C:\\Users\\Circle '
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\_adapters.py',
+   'PYMODULE'),
   ('importlib._bootstrap',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\_bootstrap.py',
@@ -466,6 +226,10 @@
   ('importlib._bootstrap_external',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Circle '
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\_common.py',
    'PYMODULE'),
   ('importlib.abc',
    'C:\\Users\\Circle '
@@ -507,6 +271,10 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\readers.py',
    'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Circle '
+   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\resources.py',
+   'PYMODULE'),
   ('importlib.util',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\importlib\\util.py',
@@ -514,22 +282,6 @@
   ('inspect',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\inspect.py',
-   'PYMODULE'),
-  ('json',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\json\\__init__.py',
-   'PYMODULE'),
-  ('json.decoder',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\json\\decoder.py',
-   'PYMODULE'),
-  ('json.encoder',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\json\\encoder.py',
-   'PYMODULE'),
-  ('json.scanner',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\json\\scanner.py',
    'PYMODULE'),
   ('logging',
    'C:\\Users\\Circle '
@@ -539,674 +291,9 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\lzma.py',
    'PYMODULE'),
-  ('mimetypes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\mimetypes.py',
-   'PYMODULE'),
-  ('multiprocessing',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\__init__.py',
-   'PYMODULE'),
-  ('multiprocessing.connection',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\connection.py',
-   'PYMODULE'),
-  ('multiprocessing.context',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\context.py',
-   'PYMODULE'),
-  ('multiprocessing.dummy',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\dummy\\__init__.py',
-   'PYMODULE'),
-  ('multiprocessing.dummy.connection',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\dummy\\connection.py',
-   'PYMODULE'),
-  ('multiprocessing.forkserver',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\forkserver.py',
-   'PYMODULE'),
-  ('multiprocessing.heap',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\heap.py',
-   'PYMODULE'),
-  ('multiprocessing.managers',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\managers.py',
-   'PYMODULE'),
-  ('multiprocessing.pool',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\pool.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_fork',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\popen_fork.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_forkserver',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\popen_forkserver.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_posix',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\popen_spawn_posix.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_win32',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\popen_spawn_win32.py',
-   'PYMODULE'),
-  ('multiprocessing.process',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\process.py',
-   'PYMODULE'),
-  ('multiprocessing.queues',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\queues.py',
-   'PYMODULE'),
-  ('multiprocessing.reduction',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\reduction.py',
-   'PYMODULE'),
-  ('multiprocessing.resource_sharer',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\resource_sharer.py',
-   'PYMODULE'),
-  ('multiprocessing.resource_tracker',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\resource_tracker.py',
-   'PYMODULE'),
-  ('multiprocessing.shared_memory',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\shared_memory.py',
-   'PYMODULE'),
-  ('multiprocessing.sharedctypes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\sharedctypes.py',
-   'PYMODULE'),
-  ('multiprocessing.spawn',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\spawn.py',
-   'PYMODULE'),
-  ('multiprocessing.synchronize',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\synchronize.py',
-   'PYMODULE'),
-  ('multiprocessing.util',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\multiprocessing\\util.py',
-   'PYMODULE'),
-  ('netrc',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\netrc.py',
-   'PYMODULE'),
-  ('nturl2path',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\nturl2path.py',
-   'PYMODULE'),
   ('numbers',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\numbers.py',
-   'PYMODULE'),
-  ('numpy',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\__init__.py',
-   'PYMODULE'),
-  ('numpy.__config__',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\__config__.py',
-   'PYMODULE'),
-  ('numpy._array_api_info',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_array_api_info.py',
-   'PYMODULE'),
-  ('numpy._core',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\__init__.py',
-   'PYMODULE'),
-  ('numpy._core._add_newdocs',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
-   'PYMODULE'),
-  ('numpy._core._add_newdocs_scalars',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
-   'PYMODULE'),
-  ('numpy._core._asarray',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_asarray.py',
-   'PYMODULE'),
-  ('numpy._core._dtype',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_dtype.py',
-   'PYMODULE'),
-  ('numpy._core._dtype_ctypes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
-   'PYMODULE'),
-  ('numpy._core._exceptions',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_exceptions.py',
-   'PYMODULE'),
-  ('numpy._core._internal',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_internal.py',
-   'PYMODULE'),
-  ('numpy._core._machar',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_machar.py',
-   'PYMODULE'),
-  ('numpy._core._methods',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_methods.py',
-   'PYMODULE'),
-  ('numpy._core._string_helpers',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_string_helpers.py',
-   'PYMODULE'),
-  ('numpy._core._type_aliases',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_type_aliases.py',
-   'PYMODULE'),
-  ('numpy._core._ufunc_config',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
-   'PYMODULE'),
-  ('numpy._core.arrayprint',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\arrayprint.py',
-   'PYMODULE'),
-  ('numpy._core.defchararray',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\defchararray.py',
-   'PYMODULE'),
-  ('numpy._core.einsumfunc',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\einsumfunc.py',
-   'PYMODULE'),
-  ('numpy._core.fromnumeric',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\fromnumeric.py',
-   'PYMODULE'),
-  ('numpy._core.function_base',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\function_base.py',
-   'PYMODULE'),
-  ('numpy._core.getlimits',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\getlimits.py',
-   'PYMODULE'),
-  ('numpy._core.memmap',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\memmap.py',
-   'PYMODULE'),
-  ('numpy._core.multiarray',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\multiarray.py',
-   'PYMODULE'),
-  ('numpy._core.numeric',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\numeric.py',
-   'PYMODULE'),
-  ('numpy._core.numerictypes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\numerictypes.py',
-   'PYMODULE'),
-  ('numpy._core.overrides',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\overrides.py',
-   'PYMODULE'),
-  ('numpy._core.printoptions',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\printoptions.py',
-   'PYMODULE'),
-  ('numpy._core.records',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\records.py',
-   'PYMODULE'),
-  ('numpy._core.shape_base',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\shape_base.py',
-   'PYMODULE'),
-  ('numpy._core.strings',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\strings.py',
-   'PYMODULE'),
-  ('numpy._core.tests', '-', 'PYMODULE'),
-  ('numpy._core.tests._natype',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\tests\\_natype.py',
-   'PYMODULE'),
-  ('numpy._core.umath',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_core\\umath.py',
-   'PYMODULE'),
-  ('numpy._distributor_init',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_distributor_init.py',
-   'PYMODULE'),
-  ('numpy._expired_attrs_2_0',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
-   'PYMODULE'),
-  ('numpy._globals',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_globals.py',
-   'PYMODULE'),
-  ('numpy._pytesttester',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_pytesttester.py',
-   'PYMODULE'),
-  ('numpy._typing',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\__init__.py',
-   'PYMODULE'),
-  ('numpy._typing._add_docstring',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
-   'PYMODULE'),
-  ('numpy._typing._array_like',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
-   'PYMODULE'),
-  ('numpy._typing._char_codes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
-   'PYMODULE'),
-  ('numpy._typing._dtype_like',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
-   'PYMODULE'),
-  ('numpy._typing._nbit',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
-   'PYMODULE'),
-  ('numpy._typing._nbit_base',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
-   'PYMODULE'),
-  ('numpy._typing._nested_sequence',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
-   'PYMODULE'),
-  ('numpy._typing._scalars',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
-   'PYMODULE'),
-  ('numpy._typing._shape',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_shape.py',
-   'PYMODULE'),
-  ('numpy._typing._ufunc',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_typing\\_ufunc.py',
-   'PYMODULE'),
-  ('numpy._utils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_utils\\__init__.py',
-   'PYMODULE'),
-  ('numpy._utils._convertions',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_utils\\_convertions.py',
-   'PYMODULE'),
-  ('numpy._utils._inspect',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\_utils\\_inspect.py',
-   'PYMODULE'),
-  ('numpy.char',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\char\\__init__.py',
-   'PYMODULE'),
-  ('numpy.core',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\core\\__init__.py',
-   'PYMODULE'),
-  ('numpy.core._utils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\core\\_utils.py',
-   'PYMODULE'),
-  ('numpy.ctypeslib',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\ctypeslib.py',
-   'PYMODULE'),
-  ('numpy.dtypes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\dtypes.py',
-   'PYMODULE'),
-  ('numpy.exceptions',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\exceptions.py',
-   'PYMODULE'),
-  ('numpy.f2py',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\__init__.py',
-   'PYMODULE'),
-  ('numpy.f2py.__version__',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\__version__.py',
-   'PYMODULE'),
-  ('numpy.f2py._backends',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
-   'PYMODULE'),
-  ('numpy.f2py._backends._backend',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
-   'PYMODULE'),
-  ('numpy.f2py._backends._distutils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
-   'PYMODULE'),
-  ('numpy.f2py._backends._meson',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
-   'PYMODULE'),
-  ('numpy.f2py._isocbind',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\_isocbind.py',
-   'PYMODULE'),
-  ('numpy.f2py.auxfuncs',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
-   'PYMODULE'),
-  ('numpy.f2py.capi_maps',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
-   'PYMODULE'),
-  ('numpy.f2py.cb_rules',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.cfuncs',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
-   'PYMODULE'),
-  ('numpy.f2py.common_rules',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.crackfortran',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
-   'PYMODULE'),
-  ('numpy.f2py.diagnose',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
-   'PYMODULE'),
-  ('numpy.f2py.f2py2e',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
-   'PYMODULE'),
-  ('numpy.f2py.f90mod_rules',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.func2subr',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
-   'PYMODULE'),
-  ('numpy.f2py.rules',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.symbolic',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\symbolic.py',
-   'PYMODULE'),
-  ('numpy.f2py.use_rules',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
-   'PYMODULE'),
-  ('numpy.fft',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\fft\\__init__.py',
-   'PYMODULE'),
-  ('numpy.fft._helper',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\fft\\_helper.py',
-   'PYMODULE'),
-  ('numpy.fft._pocketfft',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
-   'PYMODULE'),
-  ('numpy.fft.helper',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\fft\\helper.py',
-   'PYMODULE'),
-  ('numpy.lib',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\__init__.py',
-   'PYMODULE'),
-  ('numpy.lib._array_utils_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._arraypad_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._arraysetops_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._arrayterator_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._datasource',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_datasource.py',
-   'PYMODULE'),
-  ('numpy.lib._function_base_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._histograms_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._index_tricks_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._iotools',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_iotools.py',
-   'PYMODULE'),
-  ('numpy.lib._nanfunctions_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._npyio_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._polynomial_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._scimath_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._shape_base_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._stride_tricks_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._twodim_base_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._type_check_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._ufunclike_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._utils_impl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_utils_impl.py',
-   'PYMODULE'),
-  ('numpy.lib._version',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\_version.py',
-   'PYMODULE'),
-  ('numpy.lib.array_utils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\array_utils.py',
-   'PYMODULE'),
-  ('numpy.lib.format',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\format.py',
-   'PYMODULE'),
-  ('numpy.lib.introspect',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\introspect.py',
-   'PYMODULE'),
-  ('numpy.lib.mixins',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\mixins.py',
-   'PYMODULE'),
-  ('numpy.lib.npyio',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\npyio.py',
-   'PYMODULE'),
-  ('numpy.lib.recfunctions',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\recfunctions.py',
-   'PYMODULE'),
-  ('numpy.lib.scimath',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\scimath.py',
-   'PYMODULE'),
-  ('numpy.lib.stride_tricks',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
-   'PYMODULE'),
-  ('numpy.linalg',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\linalg\\__init__.py',
-   'PYMODULE'),
-  ('numpy.linalg._linalg',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\linalg\\_linalg.py',
-   'PYMODULE'),
-  ('numpy.linalg.linalg',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\linalg\\linalg.py',
-   'PYMODULE'),
-  ('numpy.ma',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\ma\\__init__.py',
-   'PYMODULE'),
-  ('numpy.ma.core',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\ma\\core.py',
-   'PYMODULE'),
-  ('numpy.ma.extras',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\ma\\extras.py',
-   'PYMODULE'),
-  ('numpy.ma.mrecords',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\ma\\mrecords.py',
-   'PYMODULE'),
-  ('numpy.matlib',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\matlib.py',
-   'PYMODULE'),
-  ('numpy.matrixlib',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
-   'PYMODULE'),
-  ('numpy.matrixlib.defmatrix',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
-   'PYMODULE'),
-  ('numpy.polynomial',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
-   'PYMODULE'),
-  ('numpy.polynomial._polybase',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
-   'PYMODULE'),
-  ('numpy.polynomial.chebyshev',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
-   'PYMODULE'),
-  ('numpy.polynomial.hermite',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
-   'PYMODULE'),
-  ('numpy.polynomial.hermite_e',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
-   'PYMODULE'),
-  ('numpy.polynomial.laguerre',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
-   'PYMODULE'),
-  ('numpy.polynomial.legendre',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
-   'PYMODULE'),
-  ('numpy.polynomial.polynomial',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
-   'PYMODULE'),
-  ('numpy.polynomial.polyutils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
-   'PYMODULE'),
-  ('numpy.random',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\random\\__init__.py',
-   'PYMODULE'),
-  ('numpy.random._pickle',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\random\\_pickle.py',
-   'PYMODULE'),
-  ('numpy.rec',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\rec\\__init__.py',
-   'PYMODULE'),
-  ('numpy.strings',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\strings\\__init__.py',
-   'PYMODULE'),
-  ('numpy.testing',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\testing\\__init__.py',
-   'PYMODULE'),
-  ('numpy.testing._private',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
-   'PYMODULE'),
-  ('numpy.testing._private.extbuild',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
-   'PYMODULE'),
-  ('numpy.testing._private.utils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
-   'PYMODULE'),
-  ('numpy.testing.overrides',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\testing\\overrides.py',
-   'PYMODULE'),
-  ('numpy.typing',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\typing\\__init__.py',
-   'PYMODULE'),
-  ('numpy.version',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\numpy\\version.py',
    'PYMODULE'),
   ('opcode',
    'C:\\Users\\Circle '
@@ -1220,17 +307,9 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pathlib.py',
    'PYMODULE'),
-  ('pdb',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pdb.py',
-   'PYMODULE'),
   ('pickle',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pickle.py',
-   'PYMODULE'),
-  ('pkgutil',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pkgutil.py',
    'PYMODULE'),
   ('platform',
    'C:\\Users\\Circle '
@@ -1240,41 +319,9 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pprint.py',
    'PYMODULE'),
-  ('psutil',
-   'C:\\Users\\Circle '
-   'Trick\\AppData\\Roaming\\Python\\Python310\\site-packages\\psutil\\__init__.py',
-   'PYMODULE'),
-  ('psutil._common',
-   'C:\\Users\\Circle '
-   'Trick\\AppData\\Roaming\\Python\\Python310\\site-packages\\psutil\\_common.py',
-   'PYMODULE'),
-  ('psutil._compat',
-   'C:\\Users\\Circle '
-   'Trick\\AppData\\Roaming\\Python\\Python310\\site-packages\\psutil\\_compat.py',
-   'PYMODULE'),
-  ('psutil._pswindows',
-   'C:\\Users\\Circle '
-   'Trick\\AppData\\Roaming\\Python\\Python310\\site-packages\\psutil\\_pswindows.py',
-   'PYMODULE'),
   ('py_compile',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\py_compile.py',
-   'PYMODULE'),
-  ('pydoc',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pydoc.py',
-   'PYMODULE'),
-  ('pydoc_data',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pydoc_data\\__init__.py',
-   'PYMODULE'),
-  ('pydoc_data.topics',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\pydoc_data\\topics.py',
-   'PYMODULE'),
-  ('queue',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\queue.py',
    'PYMODULE'),
   ('quopri',
    'C:\\Users\\Circle '
@@ -1284,21 +331,9 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\random.py',
    'PYMODULE'),
-  ('runpy',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\runpy.py',
-   'PYMODULE'),
-  ('secrets',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\secrets.py',
-   'PYMODULE'),
   ('selectors',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\selectors.py',
-   'PYMODULE'),
-  ('shlex',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\shlex.py',
    'PYMODULE'),
   ('shutil',
    'C:\\Users\\Circle '
@@ -1311,14 +346,6 @@
   ('socket',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\socket.py',
-   'PYMODULE'),
-  ('socketserver',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\socketserver.py',
-   'PYMODULE'),
-  ('ssl',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\ssl.py',
    'PYMODULE'),
   ('statistics',
    'C:\\Users\\Circle '
@@ -1335,10 +362,6 @@
   ('subprocess',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\subprocess.py',
-   'PYMODULE'),
-  ('sysconfig',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\sysconfig.py',
    'PYMODULE'),
   ('tarfile',
    'C:\\Users\\Circle '
@@ -1376,203 +399,23 @@
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('tty',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\tty.py',
-   'PYMODULE'),
   ('typing',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\typing.py',
-   'PYMODULE'),
-  ('unittest',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\__init__.py',
-   'PYMODULE'),
-  ('unittest._log',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\_log.py',
-   'PYMODULE'),
-  ('unittest.async_case',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\async_case.py',
-   'PYMODULE'),
-  ('unittest.case',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\case.py',
-   'PYMODULE'),
-  ('unittest.loader',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\loader.py',
-   'PYMODULE'),
-  ('unittest.main',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\main.py',
-   'PYMODULE'),
-  ('unittest.result',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\result.py',
-   'PYMODULE'),
-  ('unittest.runner',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\runner.py',
-   'PYMODULE'),
-  ('unittest.signals',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\signals.py',
-   'PYMODULE'),
-  ('unittest.suite',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\suite.py',
-   'PYMODULE'),
-  ('unittest.util',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\unittest\\util.py',
    'PYMODULE'),
   ('urllib',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\urllib\\__init__.py',
    'PYMODULE'),
-  ('urllib.error',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\urllib\\error.py',
-   'PYMODULE'),
   ('urllib.parse',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('urllib.request',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\urllib\\request.py',
-   'PYMODULE'),
-  ('urllib.response',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\urllib\\response.py',
    'PYMODULE'),
   ('uu',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\uu.py',
    'PYMODULE'),
-  ('webbrowser',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\webbrowser.py',
-   'PYMODULE'),
-  ('xml',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\__init__.py',
-   'PYMODULE'),
-  ('xml.parsers',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\parsers\\__init__.py',
-   'PYMODULE'),
-  ('xml.parsers.expat',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\parsers\\expat.py',
-   'PYMODULE'),
-  ('xml.sax',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\sax\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax._exceptions',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\sax\\_exceptions.py',
-   'PYMODULE'),
-  ('xml.sax.expatreader',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\sax\\expatreader.py',
-   'PYMODULE'),
-  ('xml.sax.handler',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\sax\\handler.py',
-   'PYMODULE'),
-  ('xml.sax.saxutils',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\sax\\saxutils.py',
-   'PYMODULE'),
-  ('xml.sax.xmlreader',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xml\\sax\\xmlreader.py',
-   'PYMODULE'),
-  ('xmlrpc',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xmlrpc\\__init__.py',
-   'PYMODULE'),
-  ('xmlrpc.client',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\xmlrpc\\client.py',
-   'PYMODULE'),
-  ('yaml',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\__init__.py',
-   'PYMODULE'),
-  ('yaml.composer',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\composer.py',
-   'PYMODULE'),
-  ('yaml.constructor',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\constructor.py',
-   'PYMODULE'),
-  ('yaml.cyaml',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\cyaml.py',
-   'PYMODULE'),
-  ('yaml.dumper',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\dumper.py',
-   'PYMODULE'),
-  ('yaml.emitter',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\emitter.py',
-   'PYMODULE'),
-  ('yaml.error',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\error.py',
-   'PYMODULE'),
-  ('yaml.events',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\events.py',
-   'PYMODULE'),
-  ('yaml.loader',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\loader.py',
-   'PYMODULE'),
-  ('yaml.nodes',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\nodes.py',
-   'PYMODULE'),
-  ('yaml.parser',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\parser.py',
-   'PYMODULE'),
-  ('yaml.reader',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\reader.py',
-   'PYMODULE'),
-  ('yaml.representer',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\representer.py',
-   'PYMODULE'),
-  ('yaml.resolver',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\resolver.py',
-   'PYMODULE'),
-  ('yaml.scanner',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\scanner.py',
-   'PYMODULE'),
-  ('yaml.serializer',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\serializer.py',
-   'PYMODULE'),
-  ('yaml.tokens',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\site-packages\\yaml\\tokens.py',
-   'PYMODULE'),
   ('zipfile',
    'C:\\Users\\Circle '
    'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\zipfile.py',
-   'PYMODULE'),
-  ('zipimport',
-   'C:\\Users\\Circle '
-   'Trick\\Documents\\Apps\\Scripting\\Python\\Inst_Targ\\lib\\zipimport.py',
    'PYMODULE')])

@@ -8,9 +8,8 @@ a = Analysis(
     datas=[('*.py','.')],
     hiddenimports=[
         'numpy',
-        'moviepy', # moviepy in windows currently seems to be the breaking point
-#        'moviepy.VideoFileClip',
-#        'moviepy.AudioFileClip',
+        'imageio_ffmpeg',
+        'moviepy',
         'pathlib',
         'os',
         'sys',
