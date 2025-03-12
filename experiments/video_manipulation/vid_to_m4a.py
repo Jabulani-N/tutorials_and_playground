@@ -4,6 +4,14 @@ import moviepy
 from moviepy import VideoFileClip
 from moviepy import AudioFileClip
 import os
+import sys
+
+
+# this may be what fixes the windows executable.
+# testing first unprotected. will protect it next.
+output = open("output.txt", "wt")
+sys.stdout = output
+sys.stderr = output
 
 
 def vid_to_m4a():
