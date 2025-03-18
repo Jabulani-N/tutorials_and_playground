@@ -38,7 +38,7 @@ moviepy updated to v2, so much old guides will not function. This'll be a projec
 
  - [ ] Package app into a portable form
    - [x] linux version
-   - [ ] windows version
+   - [x] windows version
      - windows moviepy may not automatically be getting the dependencies. linux was fine and did so automatically. currently looking at [this](https://stackoverflow.com/questions/55482462/pyinstaller-how-to-hidden-import-moviepy)
      - [you have to run pyinstaller in the context of the virtual environment](https://stackoverflow.com/questions/57227191/pyinstaller-hidden-import-not-found)
        - `python -m PyInstaller main.py ....` (capitalization mandatory)
