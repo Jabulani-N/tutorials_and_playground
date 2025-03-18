@@ -47,4 +47,5 @@ exe = EXE(
     entitlements_file=None,
     # only windows and mac can use icon
 #    icon='D:\Temp\Stable Diffusion outputs\\00413 - face with gleam.png',
+version='version_win.rc',
 )
