@@ -74,7 +74,7 @@ VideoClip is distinct form VideoFileClip. Same with audio.
 If you run the gui script via terminal from a different folder, default folders (input inparticular) will not work, because it identifies the folder with a relative path. It instead works for if you have an input folder in the directory you're running it from.
 
 
-executable file created by pyinstaller does not import local modules
+SOLVED ~~executable file created by pyinstaller does not import local modules~~
 * this seems to be solution: https://stackoverflow.com/questions/55312146/how-to-include-only-needed-modules-in-pyinstaller
 
-executable file created by pyinstaller cannot be run on windows
+SOLVED ~~executable file created by pyinstaller cannot be run on windows~~
