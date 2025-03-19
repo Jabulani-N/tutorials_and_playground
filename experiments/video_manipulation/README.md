@@ -1,6 +1,6 @@
 # Video Manipulation
 
-This directory contains a Pyhton project created for the purpose of batch extracting  audio files from video files.
+This directory contains a Python project created for the purpose of batch extracting  audio files from video files.
 
 ![gui demonstration](../../img/vid_manip/gui%20demonstration.webp)
 
@@ -17,4 +17,4 @@ I created this because I wanted to convert about a hundred video files I had on 
 
 My goal with this project is to craete an easy-to-use python application to extract audio from video files.
 
-Currently, this whole directory will need to be downloaded to run the script, and it'll require external installations. Now that a gui has been implemented, the next steps include putting the whole project into an all-inclusive package.
+The releases [can be found here](https://github.com/Jabulani-N/tutorials_and_playground/releases).
