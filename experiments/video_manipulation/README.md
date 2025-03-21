@@ -4,9 +4,7 @@ This directory contains all Python projects created for the purpose of batch man
 
 The first and flagship project is [Vid2Aud](./vid2aud/), which extracts the audio from video files and creates an audio file. It does this on every video within the folder you select, and matches the organization of folders you have videos in. TL;DNR: **it makes an "audio version" of your video stash**.
 
-![usage video](../../img/vid_manip/full%20app%20demo.mkv)
-
-![gui demonstration](../../img/vid_manip/gui%20demonstration.webp)
+![usage video](../../img/vid_manip/vid2aud%20ui%20demo.webp)
 
 I created this because I wanted to convert about a hundred video files I had on hand to m4a audio format, <details>
 <summary>but...</summary>
