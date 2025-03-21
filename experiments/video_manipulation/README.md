@@ -1,6 +1,8 @@
 # Video Manipulation
 
-This directory contains a Python project created for the purpose of batch extracting  audio files from video files.
+This directory contains all Python projects created for the purpose of batch managing, modofying, and all around manipulating video files.
+
+The first and flagship project is Vid2Aud, which extracts the audio from video files and creates an audio file. It does this on every video within the folder you select, and matches the organization of folders you have videos in. TL;DNR, **it makes an "audio version" of your video stash**.
 
 ![gui demonstration](../../img/vid_manip/gui%20demonstration.webp)
 
