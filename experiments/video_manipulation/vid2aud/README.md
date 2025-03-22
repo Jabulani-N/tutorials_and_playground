@@ -1,4 +1,7 @@
-# Vid2Aud
+- [Vid2Aud Introduction](#vid2aud-introduction)
+- [Instructions](#instructions)
+
+# Vid2Aud Introduction
 
 This project is a Python application that extracts the audio from video files and creates an audio file. It does this on every video within the folder you select, and matches the organization of folders you have videos in. TL;DNR: **it makes an "audio version" of your video stash**.
 
@@ -7,7 +10,7 @@ The current release can be [downloaded here](https://github.com/Jabulani-N/tutor
 
 
 
-# Use Instructions
+# Instructions
 
 1. Upon opening the app, you'll be asked about your input videos:
 
