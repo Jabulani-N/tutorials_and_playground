@@ -2,4 +2,8 @@
 
 This directory contains categories of tutorials and troubleshooting.
 
-More than demonstrations of code that works, this directory contains step-by-step instructions.
+* [Articles](./articles/) contains in-depth tutorial articles.
+
+* [Demonstrations](./demonstrations/) contains functional code snippets that demonstrate a task.
+
+*  [Links](./links/) contains quick links to resources I've used to solve problems on my machine.
