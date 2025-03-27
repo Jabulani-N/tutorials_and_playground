@@ -8,8 +8,9 @@
     - [What did I just do?](#what-did-i-just-do)
   - [Create Executable via PyInstaller](#create-executable-via-pyinstaller)
     - [Have PyInstaller create your spec file](#have-pyinstaller-create-your-spec-file)
-    - [Edit App name via spec file](#edit-app-name-via-spec-file)
-    - [Credit Yourself](#credit-yourself)
+      - [Note](#note)
+    - [Edit App name via main.spec file](#edit-app-name-via-mainspec-file)
+    - [Credit Yourself via version.rc file](#credit-yourself-via-versionrc-file)
     - [Create the Executable](#create-the-executable)
 
 
@@ -55,23 +56,52 @@ This will create a directory called `envNameHere`.
 
 ### What did I just do?
 
-The virtual environment you created has it's own installation of python, independant of your machine's version. This means you have an "even playing field" where any two machines running the same operating systme will behave identically when using this python this way. This also limits the potential for breaking your own personal Python installation.
+The virtual environment you created has it's own installation of python, independant of your machine's version and installed modules. This means you have an "even playing field" where any two machines running the same operating systme will behave identically when using this python this way. This also limits the potential for breaking your own personal Python installation.
 
-Most relevant for creating executables, this also guarantees any python modules included are done intentionally, and use the version you want the application to use.
+Most relevant for creating executables, this also guarantees any python modules included are included intentionally, and use the exact version you want the application to use.
 
 
 ## Create Executable via PyInstaller
 
+Now that you have a Virtual Environment (venv) up and running your script without a hitch, you can begin creating the excecutable file itself using PyInstaller. Be sure you've installed it to your venv using `python.exe -m pip install pyinstaller`
+
 ### Have PyInstaller create your spec file
 
-### Edit App name via spec file
+Rather than put the work into structuring this yourself, we'll have PyInstaller do it for us: `python.exe -m PyInstaller scriptName.py` will create an executable with default values, and it may actually run if absolutely everything is self-contained within the single script file. We're not done yet, however. It will also create a file called `main.spec`. That's how we'll tailor the created executable to our needs.
 
-### Credit Yourself
+#### Note
+
+You might consider renaming `main.spec`, as anytime you run pyinstaller from your `main.py` file, it'll create main.spec with default values, overwriting your own, if it has the same name.
+
+### Edit App name via main.spec file
+
+Your newly created `.spec` file will have a structure similar to, but not identical to, <details>
+<summary>this one</summary>
+
+
+![top half](../../../img/tutorials/python/PyInstaller/spec%20file%20-%20analysis%20(top).PNG)
+![bottom half](../../../img/tutorials/python/PyInstaller/spec%20file%20-%20pyz,%20exe.PNG)
+</details>
+
+To name your app, you'll navigate to the `exe =` section and create or change the `name=''` line to `name='name_of_your_app'`
+
+### Credit Yourself via version.rc file
+
+![credits in properties](../../../img/tutorials/python/PyInstaller/credits%20in%20properties.png)
+
+To populate the details of your app, we'll use a `version.rc` file. The idea is similar to that of the `main.spec` file, but this one is for Properties Details. I use [this](../../demonstrations/syntax/python/PyInstaller/version.rc) as a template.
+
+Some notable fields are
+
+When you've filled in the information you want, you'll add the `.rc` file to your application by adding `version='version.rc_file_name'` to your `.spec` file, within the `exe = EXE(` section.
+
+For example:
+![spec file with version file linked](../../../img/tutorials/python/PyInstaller/spec%20file%20version%20line.PNG)
 
 ### Create the Executable
 
-"Pull the lever, Kronk!"
+![do the thing!](../../../img/zhu-li,%20do%20the%20thing.gif)
 
+Now we're ready to create the executable. Have PyInstaller run the spec file, in the context of your venv, with `python.exe -m PyInstaller spec_file_name.spec`.
 
-
-[def]: #how
+Give it time to work, and that's your python app built and personalized!
