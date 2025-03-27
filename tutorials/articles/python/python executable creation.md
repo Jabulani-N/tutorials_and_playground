@@ -56,7 +56,7 @@ This will create a directory called `envNameHere`.
 
 ### What did I just do?
 
-The virtual environment you created has it's own installation of python, independant of your machine's version and installed modules. This means you have an "even playing field" where any two machines running the same operating systme will behave identically when using this python this way. This also limits the potential for breaking your own personal Python installation.
+The virtual environment you created has it's own installation of python, independant of your machine's version and installed modules. This means you have an "even playing field" where any two machines running the same operating system will behave identically when using this python this way. This also limits the potential for breaking your own personal Python installation.
 
 Most relevant for creating executables, this also guarantees any python modules included are included intentionally, and use the exact version you want the application to use.
 
