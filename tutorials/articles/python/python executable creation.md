@@ -73,7 +73,7 @@ Rather than put the work into structuring this yourself, we'll have PyInstaller 
 
 #### Note
 
-You might consider renaming `main.spec`, as anytime you run pyinstaller from your `main.py` file, it'll create main.spec with default values, overwriting your own, if it has the same name.
+You might consider renaming `main.spec`, as anytime you run your `main.py` file through pyinstaller, it'll create main.spec with default values, overwriting your own, if it has the same name.
 
 ### Edit App name via main.spec file
 
