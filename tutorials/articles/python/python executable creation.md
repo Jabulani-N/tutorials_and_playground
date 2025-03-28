@@ -1,5 +1,7 @@
 # Creating a Windows Executable from a Python Script
 
+![many files become one](../../../img/tutorials/python/PyInstaller/stack%20of%20files%20to%20single%20file.jpg)
+
 **Contents**:
 - [Creating a Windows Executable from a Python Script](#creating-a-windows-executable-from-a-python-script)
   - [Create a Virtual Python Environment (it's faster and easier than it sounds)](#create-a-virtual-python-environment-its-faster-and-easier-than-it-sounds)
@@ -56,7 +58,7 @@ This will create a directory called `envNameHere`.
 
 ### What did I just do?
 
-The virtual environment you created has it's own installation of python, independant of your machine's version and installed modules. This means you have an "even playing field" where any two machines running the same operating system will behave identically when using this python this way. This also limits the potential for breaking your own personal Python installation.
+The virtual environment you created has it's own installation of python, independent of your machine's version and installed modules. This means you have an "even playing field" where any two machines running the same operating system will behave identically when using this python this way. This also limits the potential for breaking your own personal Python installation.
 
 Most relevant for creating executables, this also guarantees any python modules included are included intentionally, and use the exact version you want the application to use.
 
