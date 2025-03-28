@@ -93,6 +93,11 @@ To populate the details of your app, we'll use a `version.rc` file. The idea is 
 
 Some notable fields are
 
+* `OriginalFilename`
+* `LegalCopyright`
+* `FileDescription`
+* `ProductVersion`
+
 When you've filled in the information you want, you'll add the `.rc` file to your application by adding `version='version.rc_file_name'` to your `.spec` file, within the `exe = EXE(` section.
 
 For example:
