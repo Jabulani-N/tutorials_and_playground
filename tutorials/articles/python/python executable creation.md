@@ -1,4 +1,6 @@
-# Creating a Windows Executable from a Python Script
+# Freezing a Python Script in Windows
+
+This article is a windows-specific guide on creatring an executable from a Python script (freezing) using PyInstaller.
 
 ![many files become one](../../../img/tutorials/python/PyInstaller/stack%20of%20files%20to%20single%20file.jpg)
 
