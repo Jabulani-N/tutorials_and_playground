@@ -40,4 +40,4 @@ You can deactivate your virtual environment with `deactivate`, which will return
 
 when your venv is created, you'll need to work in the "context" of it to use the virtual python installment and its modules.
 
-Start your line with `python -m` to work in the venv's context.
+Start your line with `python ` to work in the venv's context. To use a module like `pip` or `PyInstaller`, start your line with `python -m moduleName`
