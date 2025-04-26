@@ -25,8 +25,7 @@ These delightful spaces protect your main machine from getting clogged up with p
 `source venvName/bin/activate`
 
 Example
-* ```
-
+```
 root@LAPTOP-NLNOP13P:/mnt/d/Git_Repositories/Audio-Unifier# source work_venv_lin/bin/activate
 (work_venv_lin) root@LAPTOP-NLNOP13P:/mnt/d/Git_Repositories/Audio-Unifier# 
 ```
