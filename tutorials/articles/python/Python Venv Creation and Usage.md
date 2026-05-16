@@ -4,7 +4,7 @@
 
 Your venv is your laboratory.
 
-These delightful spaces protect your main machine from getting clogged up with pyhton installs you only need fo r asingle project, and let you use whatever versoin of a library you want without having to change your main workspace to suit the project.
+These delightful spaces protect your main machine from getting clogged up with pyhton installs you only need for asingle project, and let you use whatever versoin of a library you want without having to change your main workspace to suit the project.
 
 
 
