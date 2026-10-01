@@ -79,7 +79,8 @@ You might consider renaming `main.spec`, as anytime you run your `main.py` file 
 
 ### Edit App name via main.spec file
 
-Your newly created `.spec` file will have a structure similar to, but not identical to, <details>
+Your newly created `.spec` file will have a structure similar to, but not identical to, 
+<details>
 <summary>this one</summary>
 
 
