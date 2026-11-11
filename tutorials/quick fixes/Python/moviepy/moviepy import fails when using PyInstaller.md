@@ -10,3 +10,4 @@ If when trying to run the executable from a python script that imports MoviePy, 
 
 ![datas to make moviepy work](../../../../img/tutorials/quick%20fixes/datas%20for%20moviepy%20pyinstaller%20import%20fix.PNG)
 
+the `+` is because I need it appended to the list of tuples I'm using for the rest of `datas`.
