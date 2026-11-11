@@ -1,5 +1,6 @@
 # How to fix PyInstaller failing to transfer the package metadata when creating an executable
 
+MoviePy error: 
 `importlib.metadata.PackageNotFoundError: No package metadata was found for imageio
 [PYI-25132:ERROR] Failed to execute script 'main' due to unhandled exception!`
 
